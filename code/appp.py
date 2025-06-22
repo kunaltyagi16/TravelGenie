@@ -48,7 +48,7 @@ with st.sidebar:
             st.write(", ".join(places))
 
 # Main app interface
-st.title("🌴 Ultimate Holiday Planner")
+st.header("🌴 TravelGenie - Ultimate Holiday Planner")
 
 # Display chat history
 for msg in st.session_state.messages:
