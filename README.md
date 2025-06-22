@@ -70,7 +70,7 @@ The TravelGenie recommendation system architecture comprises the following compo
 
 ## Home Page
 
-![Home Page](https://github.com/user-attachments/assets/95aad66c-2c0a-45a3-ad3d-1d8b35ea944b)
+![gdfhjk](https://github.com/user-attachments/assets/7988d3a3-6b38-41ed-ba85-463f860eadb2)
 
 ## Getting Started
 
