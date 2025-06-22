@@ -68,6 +68,10 @@ The TravelGenie recommendation system architecture comprises the following compo
    - Intuitive user interface to facilitate user interactions.
    - Displays personalized recommendations and advice.
 
+## Home Page
+
+![Home Page](https://github.com/user-attachments/assets/f6187bf4-deeb-4cb5-84d3-916508a38346)
+
 ## Getting Started
 
 To get started with TravelGenie, follow these steps:
